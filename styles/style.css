@@ -1,0 +1,23 @@
+header {
+  background-color: #3de07e;
+  height: 200px;
+  width: 100%;
+  text-align: center;
+}
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  color: black;
+}
+footer {
+  background-color: gray;
+  color: white;
+}
+.shop-item {
+  width: 100px;
+}
+.item-img {
+  width: 100%;
+}
