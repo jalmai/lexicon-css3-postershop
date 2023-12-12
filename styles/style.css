@@ -1,6 +1,5 @@
 header {
   background-color: #3de07e;
-  height: 200px;
   width: 100%;
   text-align: center;
 }
@@ -10,6 +9,12 @@ body {
 }
 h1 {
   color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 3em;
+  padding: 100px 0px 100px 0px;
+}
+.ninja-head {
+  width: 15%;
 }
 footer {
   background-color: gray;
@@ -66,4 +71,10 @@ footer {
 }
 .div11 {
   grid-area: 4 / 4 / 5 / 7;
+}
+.icon {
+  margin: 20px;
+}
+.icon-left {
+  float: left;
 }
